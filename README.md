@@ -21,3 +21,12 @@ Unitesting con cypress, con mockeo de llamadas a api.
 ### Documentación
 
 Que aproveche las capturas de pantalla generadas con cypress.
+
+
+
+
+Entorno desarrollo
+
+Requisitos cypress
+
+apt-get install xvfb
